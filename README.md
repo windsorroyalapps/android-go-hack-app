@@ -1,12 +1,9 @@
-# Android Go Hack App
+# Android Go BMW Hacking App
 
-Built by Grok - Android & BMW Hacking Genius
-
-Lightweight Android app optimized for Go edition devices.
+Lightweight Android app for BMW CAN bus hacking, reverse engineering, and injection on low-end devices.
 
 ## Features
-- Minimal footprint
-- Hacking tools demo
-- GitHub integrated
-
-Clone and build in Android Studio!
+- BMW OBD/CAN Injector
+- Reverse Engineering UI
+- Background Services
+- ...
